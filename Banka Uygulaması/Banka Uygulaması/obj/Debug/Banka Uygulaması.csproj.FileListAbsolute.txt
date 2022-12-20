@@ -1,0 +1,62 @@
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.exe.config
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.exe
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.pdb
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.AssemblyReference.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form1.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Properties.Resources.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.GenerateResource.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.exe
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.pdb
+C:\Users\SEFA\OneDrive\Masaüstü\Kütüphane Uygulaması\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form2.resources
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.exe.config
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.exe
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.pdb
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form1.resources
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form2.resources
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.exe
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.pdb
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form3.resources
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form4.resources
+C:\Users\Administrator\Desktop\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form5.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.exe.config
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.exe
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.pdb
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.AssemblyReference.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form1.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form2.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form3.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form4.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form5.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Properties.Resources.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.GenerateResource.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.exe
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması-20221220T152118Z-001\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.pdb
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.AssemblyReference.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.exe
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.pdb
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.exe.config
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.exe
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\bin\Debug\Banka Uygulaması.pdb
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form1.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form2.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form3.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form4.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form5.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form6.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form7.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form8.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form9.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Properties.Resources.resources
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.GenerateResource.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SEFA\OneDrive\Masaüstü\Banka Uygulaması\Banka Uygulaması\obj\Debug\Banka_Uygulaması.Form10.resources
